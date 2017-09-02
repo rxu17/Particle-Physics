@@ -1,6 +1,7 @@
 # Rixing Xu
 #
-# This program displays the accept and reject method - generate a value x with a pdf(x) as the gaussian distribution. Then generate a y value where if it is greater than the pdf(x), we reject that x, otherwise we accept it  
+# This program displays the accept and reject method - generate a value x with a pdf(x) as the gaussian distribution. 
+# Then generate a y value where if it is greater than the pdf(x), we reject that x, otherwise we accept it  
 
 # Physically, the gluon is emitted from the quark at an angle 
 # Assumptions: the gluon is emitted between 0 and pi/2 radians, and its angle has a gaussian distribution 
