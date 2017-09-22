@@ -5,6 +5,9 @@
 
 # Physically, the gluon is emitted from the quark at an angle 
 # Assumptions: the gluon is emitted between 0 and pi/2 radians, and its angle has a gaussian distribution 
+import math
+import random
+import matplotlib.pyplot as plt
 
 angles = [] 
 mean = math.pi/2 # sets the mean and std for the gaussian function
